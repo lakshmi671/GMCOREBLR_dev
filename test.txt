@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Hello world
 
+=======
+This is new file
+>>>>>>> c46b03fc7ec260d6db87dbe73481dbf8caf7f695
